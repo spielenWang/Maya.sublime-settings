@@ -1,0 +1,2 @@
+
+Mac上Sublime的mayaPY设置，使用JEDI实现代码自动补全的配置
