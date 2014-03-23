@@ -1,0 +1,23 @@
+// myproject.sublime-project
+{
+    "folders":
+    [
+        {
+            "path": "/Users/yuan/Coding/spielenPipeline"
+        }
+    ],
+ 
+    // ...
+ 
+    "settings": {
+        "python_interpreter_path": "/Applications/Autodesk/maya2014/Maya.app/Contents/bin/mayapy",
+ 
+        "python_package_paths": [
+            // My virtualenv python project location
+            "/Library/Python/2.7/site-packages",
+            // Maya's python stubs
+            "/Applications/Autodesk/maya2014/devkit/devkit/other/pymel/extras/completion/py/"
+            ]
+    }
+ 
+}

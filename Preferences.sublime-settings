@@ -1,0 +1,14 @@
+{
+	"auto_complete_selector": "-",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
